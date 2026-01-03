@@ -1,0 +1,8 @@
+{
+  "name": "Soulmate AI",
+  "description": "A deeply personal AI companion that feels like a real friend. Features low-latency voice chat, deep reasoning for complex problems, and search-grounded real-time knowledge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
